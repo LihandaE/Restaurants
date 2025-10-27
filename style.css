@@ -1,5 +1,5 @@
 *{
-    background-color:rgb(165, 126, 74);
+    background-color:rgb(219, 198, 171);
     color: black;
 }
 .navbar{
@@ -136,4 +136,14 @@ li a{
     height: 70px;
     width: 150px;
     border-radius: 50%;
+}
+.Location{
+    height: 500px;
+    width: 700px;
+}
+.Details{
+    height: 500px;
+    width: 200px;
+}
+button{color: rgb(14, 14, 179);
 }
