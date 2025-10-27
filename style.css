@@ -147,3 +147,19 @@ li a{
 }
 button{color: rgb(14, 14, 179);
 }
+.Starter{
+  margin-left: 20; 
+  margin-right: 20;
+}
+.Course{
+    margin-left: 20;
+    margin-right: 20;
+}
+.Dessert{
+    margin-left: 20;
+    margin-right: 20;
+}
+.Drinks{
+   margin-left: 20;
+    margin-right: 20; 
+}
