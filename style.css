@@ -132,3 +132,8 @@ li a{
     display: flex;
     justify-content: space-between;
 }
+.Founder{
+    height: 70px;
+    width: 150px;
+    border-radius: 50%;
+}
