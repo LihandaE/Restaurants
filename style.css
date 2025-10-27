@@ -128,3 +128,7 @@ li a{
     display: flex;
     justify-content: space-between;
 }
+.Team{
+    display: flex;
+    justify-content: space-between;
+}
