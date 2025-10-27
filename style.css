@@ -1,7 +1,6 @@
 *{
     background-color:rgb(165, 126, 74);
     color: black;
-    
 }
 .navbar{
     display: flex;
@@ -14,7 +13,11 @@
     padding: 0;
 }
 header{
-    align-items: center;
+    border: 4px solid white;
+    
+}
+footer{
+    border: 2px solid white;
 }
 .logo a{ font-size: 30px;
     font-weight: 600;
@@ -118,6 +121,10 @@ li a{
     justify-content: space-between;
 }
 .Drinks{
+    display: flex;
+    justify-content: space-between;
+}
+.Contact{
     display: flex;
     justify-content: space-between;
 }
